@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>About | Battle of the Bands</title>
+	<meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="css/slicknav.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<script src="js/modernizr.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.slicknav.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="menu-container" id="menu-container">
+		<ul id="menu" class="menu-class">
+			<li><a class="tab performer" href="performer.html"><span>Performers</span></a></li>
+			<li><a class="tab charity" href="charity.html"><span>Charities</span></a></li>
+			<li id="logo-tab"></li>
+			<li><a class="tab sponsor" href="sponsor.html"><span>Sponsors</span></a></li>
+			<li><a class="tab photo" href="photo.html"><span>Photos/Videos</span></a></li>
+		</ul>
+	</div>
+
+	<div id="about-main">
+		<div id="about-left">
+			<div style="white-space: nowrap;" id="about-header">About <span style="background: url(images/menu/about-triangle.png) right no-repeat; background-size: 150px;">BoB</span></div>
+			<div >
+				<p>International School Manila’s Battle of the Bands is one of the highlights of the ISM school year. It is a service-oriented musical event that occurs each year. The event has two aims: to showcase the talents of the students of ISM through a day of musical expression, and help the greater Philippine community involving ISM’s service and charitable partners through financial support for those less fortunate than us. Of course, on top of these, we aim to give the ISM community two nights of fun!</p>
+				<p>Battle of the Bands consists of two separate nights: the Preliminaries and the Finals. This year, the prelims will happen on January 18 and the finals will happen on February 14, 2014. The two events are ripe with sponsors selling food and merchandise, energetic performances, and chances to win excellent prizes. In previous years, the event has been attended by over 1,200 people, and with each year the turnout and enthusiasm only grow. </p>
+				<p>Because of all the popularity and success the Battle of the Bands has achieved, it has been able to contribute a lot to charity. The event is just as much a charity event as it is a performance event, and this can be seen in the contributions it has made to many organizations. The money raised by the event has been donated to many organizations in the past, including SPECS, PREP, and others that are less known such as the International School Community’s Vicky SyCip Herrera Scholarship fund, and also giving gift certificates to the children of ISM’s employees.</p>
+				<p>Any high school student at ISM can participate in Battle of the Bands. If you have talent and are willing to perform, you are welcome to audition! People can try out as either a band group, or as a vocalist. </p>
+				<p>Battle of the Bands is a major, exciting, service oriented event at ISM, and everyone is encouraged to participate. See you there!</p>
+			</div>
+		</div>
+		<div id="about-right">
+			<div id="about-iframe-wrap">
+				<iframe id="about-iframe" src="svg/about-iframe-svg.html" scrolling="no" ></iframe>
+			</div>
+		</div>
+	</div>
+	
+	<center><div id="footer-string"></div></center>
+	<!-- Logo -->
+	<a href="index.html"><img src="images/menu/logo.png" id="menu-logo" /></a>
+	<!-- BG String -->
+	<div class="string about-string"></div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#menu').slicknav();
+		});
+	</script>
+</body>
+</html>

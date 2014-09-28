@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3025"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="252.15837"
+   height="553.48602"
+   sodipodi:docname="about.svg">
+  <style>
+	.triangle{
+		fill:url(#img1);
+		stroke:#010012;
+		stroke-width:10px;
+	}
+	
+	#path3070{
+		fill:url(#img1);
+	}
+
+    #path3072-7{
+        fill:url(#img2);
+    }
+
+    #path3072{
+        fill:url(#img3);
+    }
+
+    #path3072-7-6{
+        fill:url(#img4);
+    }
+
+    #path3072-3{
+        fill:url(#img5);
+    }    
+	
+	#path3072-1{
+		fill:url(#img6);
+	}
+	
+	#path3072-3-6{
+		fill:url(#img7);
+	}
+
+    #path3072-1-4{
+        fill:url(#img8);
+    }
+
+    #path3072-1-5{
+        fill:url(#img9);
+    }
+
+  </style>
+  <metadata
+     id="metadata3031">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs3029" >
+        <pattern id="img1" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-1.jpg" x="-80" y="180" width="140%" height="100%" />
+        </pattern>
+        <pattern id="img2" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-2.jpg" x="50" y="0" width="150%" height="100%" />
+        </pattern>
+        <pattern id="img3" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-3.jpg" x="70" y="10" width="150%" height="100%" />
+        </pattern>
+        <pattern id="img4" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-4.jpg" x="40" y="90" width="180%" height="100%" />
+        </pattern>
+        <pattern id="img5" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-5.png" x="30" y="-30" width="150%" height="100%" />
+        </pattern>
+        <pattern id="img6" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-6.png" x="100" y="30" width="110%" height="100%" />
+        </pattern>
+        <pattern id="img7" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-7.jpg" x="60" y="0" width="180%" height="100%" />
+        </pattern>
+        <pattern id="img8" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-8.png" x="30" y="0" width="160%" height="100%" />
+        </pattern>
+        <pattern id="img9" patternUnits="userSpaceOnUse" width="1000" height="1000">
+            <image xlink:href="images/triangle/triangle-9.png" x="20" y="40" width="160%" height="100%" />
+        </pattern> 
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3027"
+     showgrid="false"
+     inkscape:zoom="0.11529791"
+     inkscape:cx="3262.7544"
+     inkscape:cy="-979.58568"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3025"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     sodipodi:type="star"
+	 class="triangle"
+     id="path3070"
+     sodipodi:sides="3"
+     sodipodi:cx="3084.8323"
+     sodipodi:cy="2372.6748"
+     sodipodi:r1="142.25079"
+     sodipodi:r2="71.125397"
+     sodipodi:arg1="1.4410938"
+     sodipodi:arg2="2.4882913"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3103.2309,2513.7308 -149.756,-195.6503 244.3161,-31.8673 z"
+     inkscape:transform-center-x="2.4568356"
+     inkscape:transform-center-y="7.2902049"
+     transform="matrix(0.26706787,0,0,0.26706787,-700.30817,-118.11456)" />
+  <path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="4.2223389"
+     inkscape:transform-center-y="-8.1911396"
+     transform="matrix(0.28411657,-0.05645041,0.05741988,0.27931958,-879.28655,10.310787)" />
+  <path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-7"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="10.282397"
+     inkscape:transform-center-y="2.6430224"
+     transform="matrix(0.28624142,0.07396751,-0.07178044,0.27908638,-687.00498,-393.55883)" />
+  <path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-7-6"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="13.696465"
+     inkscape:transform-center-y="-4.6474548"
+     transform="matrix(0.46297501,0.01239891,0.00639814,0.45269364,-1439.5518,-661.83788)" />
+<path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-3-6"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="8.2356682"
+     inkscape:transform-center-y="-17.221871"
+     transform="matrix(0.64581701,-0.12113279,0.14793698,0.57107458,-2271.2424,-638.24549)" />
+<path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-1"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="-4.9947135"
+     inkscape:transform-center-y="-18.295848"
+     transform="matrix(0.49293908,-0.25740667,0.25718286,0.48406451,-2109.2362,50.363664)" />
+<path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-3"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="-3.8064469"
+     inkscape:transform-center-y="-16.591095"
+     transform="matrix(0.43132046,-0.2181491,0.21782455,0.42677354,-1726.7924,105.92234)" />
+  <path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-1-5"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="10.699817"
+     inkscape:transform-center-y="-15.113064"
+     transform="matrix(0.61182198,-0.09147655,0.10309128,0.59931532,-2075.6192,-983.00037)" />
+  <path
+     sodipodi:type="star"
+     class="triangle"
+     id="path3072-1-4"
+     sodipodi:sides="3"
+     sodipodi:cx="3244.2866"
+     sodipodi:cy="2302.147"
+     sodipodi:r1="167.98347"
+     sodipodi:r2="83.991737"
+     sodipodi:arg1="-1.1970695"
+     sodipodi:arg2="-0.14987196"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 3305.6153,2145.7589 43.4431,287.6943 -270.8722,-106.2244 z"
+     inkscape:transform-center-x="-18.93883"
+     inkscape:transform-center-y="-10.713697"
+     transform="matrix(0.54285399,-0.44878163,0.45508422,0.52127744,-2704.3537,442.90557)" />
+</svg>
